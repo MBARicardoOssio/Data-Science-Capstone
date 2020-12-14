@@ -1,1 +1,12 @@
-
+name: ShinyApplication
+title: ShinyApplication
+username:
+account: mba-ricardoossio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3396535
+bundleId: 3984885
+url: https://mba-ricardoossio.shinyapps.io/ShinyApplication/
+when: 1607908364.67866
+asMultiple: FALSE
+asStatic: FALSE
